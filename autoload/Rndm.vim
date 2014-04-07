@@ -1,8 +1,3 @@
-" Vimball Archiver by Charles E. Campbell, Jr., Ph.D.
-UseVimball
-finish
-plugin/Rndm.vim	[[[1
-199
 " Rndm:
 "  Author:  Charles E. Campbell, Jr.
 "  Date:    Aug 12, 2008
